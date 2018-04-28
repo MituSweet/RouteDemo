@@ -1,0 +1,12 @@
+<view class='containview'>
+
+  <!-- <text bindtap='downTime' class='itemView' style='background:{{colors[0]}}'> 倒计时</text> -->
+  <text bindtap='dirftBottle' class='itemView' style='background:{{colors[1]}}'>高德地图</text>
+
+  <!-- <text bindtap='mymap' class='itemView' style='background:{{colors[2]}}'>地图</text> -->
+
+ 
+
+  <text bindtap='amap' class='itemView' style='background:{{colors[4]}}'>amap</text>
+  <text bindtap='floyd' class='itemView' style='background:{{colors[3]}}'>floyd算法计算最短路径</text> 
+</view>

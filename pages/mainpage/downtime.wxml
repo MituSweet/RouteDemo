@@ -1,0 +1,6 @@
+<view>
+<text style='display:block;text-align:center;font-size:30px;color:#f60;margin-top:50px'>{{clock}}{{mirco_second}}</text>
+
+
+
+</view>

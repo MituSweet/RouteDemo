@@ -1,0 +1,8 @@
+<!--pages/detail/detail.wxml-->
+<view>
+<text class="title">路径详情</text>
+</view>
+<view class='cutLine'></view>
+<view wx:for="{{steps}}" wx:for-item="item">
+  <text class='tv'>{{item}}</text>
+</view>

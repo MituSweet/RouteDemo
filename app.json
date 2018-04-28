@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/mainpage/index",
+    "pages/mainpage/downtime",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/mainpage/dirftBottle",
+    "pages/mainpage/myroute",
+    "pages/mainpage/amap",
+    "pages/detail/detail",
+    "pages/detail/posDetail",
+    "pages/detail/sort",
+    "pages/detail/floyd"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "webChat",
+    "navigationBarTextStyle": "black"
+  }
+}
